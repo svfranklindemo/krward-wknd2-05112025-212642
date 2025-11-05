@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/krward-krward-2025-11-5-14-26-23/language-masters/en:/",
+    "/content/krward-krward-2025-11-5-14-26-23/language-masters/en/:/",
+    "/content/krward-krward-2025-11-5-14-26-23/language-masters/en/:/en/",
+    "/content/krward-krward-2025-11-5-14-26-23/configuration:/.helix/config.json",
+    "/content/krward-krward-2025-11-5-14-26-23/metadata:/metadata.json",
+    "/content/krward-krward-2025-11-5-14-26-23/redirects:/redirects.json",
+    "/content/krward-krward-2025-11-5-14-26-23/placeholders:/placeholders.json",
+    "/content/krward-krward-2025-11-5-14-26-23.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/krward-krward-2025-11-5-14-26-23/",
+    "/content/dam/krward-krward-2025-11-5-14-26-23/"
   ]
 }
